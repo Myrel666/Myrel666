@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Myrel666/Myrel666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Home Sweet Home
 - 🌱 I’m currently learning Front End
 - 👯 I’m looking to collaborate on Real Life
@@ -18,4 +13,3 @@ Here are some ideas to get you started:
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash- original.svg " alt="bash" width="45" height="45"/> 
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original. svg " alt="php" width="45" height="45"/> 
 </p>
--->
